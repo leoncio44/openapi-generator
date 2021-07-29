@@ -9,7 +9,9 @@
         <relativePath>../..</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
+    <groupId>org.openapitools.mercury</groupId>
     <artifactId>openapi-generator</artifactId>
+    <version>5.2.1</version>
     <packaging>jar</packaging>
     <name>openapi-generator (core library)</name>
     <build>
